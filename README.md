@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haluk Gurbuz
 - 👀 I’m interested in .Net, .Net Core, Web technologies
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning .Net Core, React, Rest Api's
 
 
 <!---
